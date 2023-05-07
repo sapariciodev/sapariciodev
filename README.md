@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently developing [https://teidu.net/](https://teidu.net/)
 
-- 📄 Know about my experiences [Befor working in TCS, was working as a user-end and processes technician at Vocento S.L](Befor working in TCS, was working as a user-end and processes technician at Vocento S.L)
+- 📄 Know about my experiences [Before working in TCS, was working as a user-end and processes technician at Vocento S.L](Before working in TCS, was working as a user-end and processes technician at Vocento S.L)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
