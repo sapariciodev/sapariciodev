@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio aparicio</h1>
 <h3 align="center">A passionate infrastructure technician and frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapariciodev&label=Profile%20views&color=0e75b6&style=flat" alt="sapariciodev" /> </p>
 
 - 🔭 I’m currently working on [Tata Consultancy Services](https://www.tcs.com/)
 
